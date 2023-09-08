@@ -1,0 +1,31 @@
+.light {
+    border: 5px solid #333232;
+}
+
+.soloLight{
+    height: 90%;
+    border-radius: 50%;
+    margin:5px;
+}
+
+.notSoloLight{
+    height: 80%;
+    border-radius: 20px;
+    margin:3px;
+}
+
+.yellowLight.lightOn {
+    background: radial-gradient(#f7f57f,#a19101);
+}
+
+.yellowLight.lightOff {
+    background: radial-gradient(#889701,#353401);
+}
+
+.redLight.lightOn {
+    background: radial-gradient(#ec623f,#ca2a02);
+}
+
+.redLight.lightOff {
+    background: radial-gradient(#942c12,#440e01);
+}

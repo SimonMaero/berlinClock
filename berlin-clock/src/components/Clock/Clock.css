@@ -1,0 +1,30 @@
+
+.berlinClock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 10px auto;
+    /* border: 5px solid #000000; */
+}
+
+.timeEntryBanner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #1f1f1f11;
+    width: 100%;
+}
+
+.timeEntryForm {
+    display: inline-block;
+    width: 80%;
+    padding: 10px;
+    background: rgb(105, 105, 235);
+}
+
+.submit-btn {
+    width: 30%;
+}
